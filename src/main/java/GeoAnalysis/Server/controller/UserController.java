@@ -1,7 +1,7 @@
 package GeoAnalysis.Server.controller;
 
 import GeoAnalysis.Server.servive.UserService;
-import model.user.User;
+import GeoAnalysis.Server.model.user.User;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;

@@ -1,8 +1,8 @@
 package GeoAnalysis.Server.servive;
 
 import java.util.List;
-import model.user.AcessLevel;
-import model.user.User;
+import GeoAnalysis.Server.model.user.AcessLevel;
+import GeoAnalysis.Server.model.user.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import GeoAnalysis.Server.repository.UserRepository;

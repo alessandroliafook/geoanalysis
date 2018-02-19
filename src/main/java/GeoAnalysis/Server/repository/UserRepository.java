@@ -1,8 +1,8 @@
 package GeoAnalysis.Server.repository;
 
 import java.util.List;
-import model.user.AcessLevel;
-import model.user.User;
+import GeoAnalysis.Server.model.user.AcessLevel;
+import GeoAnalysis.Server.model.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
